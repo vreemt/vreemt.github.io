@@ -1,0 +1,95 @@
+body.wishlist {background-color: #663366; color: #33cc33; font: 15px verdana,arial,sans-serif }
+body.paars {background-color: #663366; color: #3399ff }
+body.zwart {background-color: #000000; color: #ffffff }
+body.wit {background-color: #ffffff}
+body { background-color: #000000; color: #ffffff }
+
+li { font: 12px arial,sans-serif; }
+
+h1.titel {
+color: #333333;
+font: 32px arial,sans-serif;
+margin-left: .8cm;
+margin-top: .6cm
+}
+h1.jaardag {
+color: #ffff99;
+font: 48px impact,arial,sans-serif;
+margin-left: 0cm;
+margin-top: .4cm;
+margin-bottom: -.3cm
+}
+
+h1 {
+color: #ffff99;
+font: 20px impact,arial,sans-serif;
+margin-top: .4cm;
+margin-left: .3cm;
+margin-bottom: -.2cm
+}
+
+h2 {
+color: #ffff99;
+font: 16px arial,sans-serif;
+margin-top: .5cm;
+margin-left: .6cm;
+margin-bottom: -.3cm
+}
+
+h3 {
+color: #ffff99;
+font: 16px arial,sans-serif;
+margin-top: .5cm;
+margin-bottom: .1cm
+}
+
+p {
+font: 14px arial,sans-serif;
+margin-top: .3cm;
+margin-left: .3cm;
+margin-right: .5cm;
+margin-bottom: .8cm
+}
+
+
+p.cv {
+font: 14px arial,sans-serif;
+margin-top: 0cm;
+margin-left: 1cm;
+margin-right: -.2cm;
+margin-bottom: .1cm;
+}
+
+
+p.locatie {
+color: #333333;
+font: 16px "courier new",courier,monospace;
+margin-left: .1cm;
+margin-top: -.1cm
+}
+
+
+p.update {
+color: #ffff99; 
+font: 10px arial,sans-serif;
+margin-right: .5cm;
+margin-top: 1cm;
+margin-bottom: .5cm;
+text-align: right
+}
+
+td.lijst {
+ color: #aadd44;
+ font: medium verdana,arial,sans-serif;
+ vertical-align: middle;
+ text-align: center;
+ margin-top: .6cm
+}
+
+a:link, a:active, a:hover, a:visited 
+{ text-decoration: none } 
+
+a:active { color: #ffff66 }
+a:link   { color: #ffff66 }
+a:visited { color: #ff9900 }
+a:hover   { color: #00cc00 }
